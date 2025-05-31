@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0f0f0f;
+  color: #ffffff;
+  text-align: center;
+}
+
+header {
+  padding: 40px;
+  background: #1f1f1f;
+}
+
+section {
+  padding: 30px;
+  border-bottom: 1px solid #333;
+}
+
+a.btn {
+  background-color: #00bfff;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+footer {
+  background: #111;
+  padding: 20px;
+  font-size: 14px;
+}
